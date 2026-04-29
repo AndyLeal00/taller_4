@@ -6,9 +6,8 @@ API desarrollada con Node.js, Express y MongoDB para el proyecto de Nuevas Tecno
 
 | Integrante | Usuario GitHub | Rama |
 |---|---|---|
-| Nombre Apellido 1 | usuario1 | NombreApellido1 |
-| Nombre Apellido 2 | usuario2 | NombreApellido2 |
-| Nombre Apellido 3 | usuario3 | NombreApellido3 |
+| Daniel Leal | Andyleal00 |
+| Mario Niño | -- |
 
 ## Tecnologías utilizadas
 
@@ -25,3 +24,4 @@ API desarrollada con Node.js, Express y MongoDB para el proyecto de Nuevas Tecno
 
 ```bash
 npm install
+npm run dev
